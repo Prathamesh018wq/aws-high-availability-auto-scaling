@@ -92,6 +92,8 @@ Completed hands-on AWS learning project.
 ### CPU Monitoring
 ![CPU](screenshots/07-cpu-monitoring.jpeg)
 
+![AWS Project Architecture](screenshots/aws-project-architecture.png)
+
 ### Failover Test
 ![Failover](screenshots/08-failover-test.jpeg)
 

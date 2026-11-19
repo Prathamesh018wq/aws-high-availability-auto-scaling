@@ -69,3 +69,32 @@ The application runs on two EC2 instances across two Availability Zones. An Appl
 ## Project Status
 Completed hands-on AWS learning project.
 
+## Project Screenshots
+
+### VPC Configuration
+![VPC](screenshots/01-vpc-configuration.jpeg)
+
+### Public Subnets
+![Subnets](screenshots/02-public-subnets.jpeg)
+
+### Application Load Balancer
+![ALB](screenshots/03-application-load-balancer.jpeg)
+
+### Auto Scaling Group
+![ASG](screenshots/04-auto-scaling-group.jpeg)
+
+### EC2 Instances
+![EC2](screenshots/05-ec2-instances.jpeg)
+
+### CloudWatch Alarms
+![CloudWatch](screenshots/06-cloudwatch-alarms.jpeg)
+
+### CPU Monitoring
+![CPU](screenshots/07-cpu-monitoring.jpeg)
+
+### Failover Test
+![Failover](screenshots/08-failover-test.jpeg)
+
+### Recovery Test
+![Recovery](screenshots/09-recovery-test.jpeg)
+
